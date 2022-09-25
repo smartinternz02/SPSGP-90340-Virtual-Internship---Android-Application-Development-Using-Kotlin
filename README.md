@@ -1,7 +1,7 @@
 # kotlin-projects
-SPSGP-90340-Virtual-Internship---Android-Application-Development-Using-Kotlin
-Kotlin projects attached in google intern in assosciate with Smartinternz
-Virtual Internship - Android Application Development Using Kotlin
+SPSGP-90340-Virtual-Internship---Android-Application-Development-Using-Kotlin/n
+Kotlin projects attached in google intern in assosciate with Smartinternz/n
+Virtual Internship - Android Application Development Using Kotlin/n
 
 This repository contains the Project 2 (Grocery App) which was assigned as a internship project by SmartInternz Android Application Development Using Kotlin Internship
 
