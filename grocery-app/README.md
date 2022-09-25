@@ -4,14 +4,14 @@ Virtual Internship - Android Application Development Using Kotlin
 
 This repository contains the Project 2 (Grocery App) which was assigned as a internship project by SmartInternz Android Application Development Using Kotlin Internship
 
-[My SmartInternz Profile](https://smartinternz.com/student-profile/feed/U0IyMDIyMDIzNzQ5Ng==)
+[My SmartInternz Profile](https://smartinternz.com/student-profile/feed/U0IyMDIyMDIzNzYzNQ==)
 
-[Google Developers Profile](https://g.dev/Siddarth-J)
+[Google Developers Profile](https://developers.google.com/profile/u/637Aravindhakrishnan?utm_source=developer.android.com)
 
 [Project Demo]()
 
 
-<img src="asset/st.jpg" width="200"/> <img src="asset/mi.jpg" width="200"/> 
+<img src="asset/img1.jpg" width="200"/> <img src="asset/img2.jpg" width="200"/> 
 
 
 ## Requirements
@@ -40,4 +40,4 @@ Open `gradle.build` in Android Studio and run the app on an emulator or directly
 
 ## Steps for read and write access (recommended)
 
-<b>Enjoy exploring the app and feel free to leave <a href="https://github.com/smartinternz02/SPSGP-90068-Virtual-Internship---Android-Application-Development-Using-Kotlin/issues/new">feedback</a>.</b>
+<b>Enjoy exploring the app and feel free to leave <a href="https://github.com/smartinternz02/SPSGP-90340-Virtual-Internship---Android-Application-Development-Using-Kotlin/issues/new">feedback</a>.</b>
